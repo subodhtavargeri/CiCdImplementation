@@ -12,7 +12,7 @@ class CiCdImplementationTests: XCTestCase {
 
     func test_SuccessImplementation() {
         
-        let expectation = 2
-        XCTAssertEqual(2, expectation)
+        let expectation = 3
+        XCTAssertEqual(3, expectation)
     }
 }
